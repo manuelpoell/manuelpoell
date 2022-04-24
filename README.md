@@ -1,7 +1,7 @@
 
 # Hi there, I'm [Manuel](https://manuelpoell.github.io/)! 👋
 
-### Self-taught web developer from Austria!
+### Full Stack Web Developer from Austria!
 
 <br>
 
