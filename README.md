@@ -15,9 +15,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-## GitHub Stats
-
-*Note: The following graph does not indicate my skills in these specific languages. It is a GitHub metric of my repositories.*
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpoell&theme=github_dark&layout=compact)](https://github.com/manuelpoell/github-readme-stats)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
